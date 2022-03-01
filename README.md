@@ -1,1 +1,4 @@
 # plannerZ
+-   plan
+-   do
+-   enjoy
